@@ -22,4 +22,4 @@
 - The choice of a text file for data storage offers several advantages, including easy online storage. Platforms like Steam can readily store and retrieve text-based data.
 - This method ensures that all essential data is preserved in a straightforward, accessible format, providing an effective solution for online information storage.
 - You want to store more than just strings, ints, and floats
-- Live daringly! (It works well now, but future issues may arise. Proceed with caution.)
+- You like to live on the edge! (It works well now, but future issues may arise. Proceed with caution.)
