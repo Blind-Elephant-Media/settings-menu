@@ -16,7 +16,7 @@
 - The method might not be compatible with platforms that do not support text-based data storage.
 - Unity PlayerPrefs is more reliable if a text file is not needed.
 
-  ## Why use this?
+## Why use this?
 
 - It utilizes a text file within a specific folder in the Unity game engine, allowing developers to access assets via file path, regardless of the build target.
 - The choice of a text file for data storage offers several advantages, including easy online storage. Platforms like Steam can readily store and retrieve text-based data.
