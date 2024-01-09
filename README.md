@@ -1,6 +1,6 @@
 <div align="center">
 
-# `⚙️ bem-settings-menu`
+# `⚙️ settings-menu`
 
 **Easy and quick settings menu to make development easier**
 
